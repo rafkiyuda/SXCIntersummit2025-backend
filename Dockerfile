@@ -12,4 +12,4 @@ COPY . .
 EXPOSE 3000
 
 # For dev: use nodemon if you want hot reload
-CMD ["npm", "run", "dev"]
+CMD ["node", "server.js"]
