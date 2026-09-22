@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sxcintersummit-registration",
+  "private_key_id": "bd0d4438b960dca2cdd6d42a7728a0b0adb55a26",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCVjAd7Vi7M9ipo\n8gNxZecv3827XLTMu8NTQFLVd3FMJ/3+x/ri8pImtj5PrrLKq1M2Z0j3M0hIURm9\n0QymYfgwBuuDWlgk8krczhR9YHghRVn/UjZ6gkgZSePxPznq6iriCGbX3zeYY6SC\neBmIxCjzE9YjKlsQA3vuFKUyKMX+Y84Q50qvZjvUVy3EHSN0X5cbVOXxTUepwINa\njmLsDDOWL5IAPJYHdYPib/jAQO9gZjZHqnZ/ga6ybg7YQgF8hWb4Kt0cx42w2Orz\na8mrRSE5EdwP4vGMmJuof3kKo73sVKGw7g7qHOGhB/1Slxyk5YZBJ6Lwy40Lf364\nRsracdKVAgMBAAECggEAAOKnWK+V71i1v5FPO+iiicIFccqGt3+VFHUZCHKAlTbX\nZh7A+X7+JoSFsesS2+hPwc6yu+Pt1Z/FSz5lmMaTtZUU594tD2rvzobZ0DQ2Adxr\nP/u4ntkOnDe3xcHeEen4/wWVtkl4BsrwOmWDoS+oHmhLqEGj8GBU53/vynA7W9ox\nGMo60k1gS1B7W6S24xazi78vHScIaSnybWgtNTyn7THQ1G/YbRkNo+5oSyaORU8i\nbMVSmvw8s7ZK3mDUZGedAsSs6A9HsGymNIJAnHyAB8tUU6zQVyi9MvsF6QE2U2Y+\nqqFX4NHCCe3f12FVyi/MzTOiChANV/DnHJBWXyyhMQKBgQDJOwLZNGiENMI+5Qgn\nKFoxtL80cr7CgSZSiwgjabh5qxQqt4Jmu1Ldy8zbWTb0Fmb2JwS1EtzQ60UVdKxk\n7LC3AnYbtSgyyJ6hinaVmB/frmM4UPou8drNAegr61NJO+HlF2BIG84Zlp3fsG2g\nb2ihKZToMqZhitnWuTY2VKJu0wKBgQC+P+dWvNcOQrLXCULSMzhw+zdvSv75Jwvx\n5Y8UWYJ2t9ArvGfNBopovN+q49bmQ8qkeovGf+HGDxTMFJuzf/367K0NdLH+uyNw\nO8o80xJw2kehw29ZDicjShLBOkj64jdP0PhT5PsUyH4PnBuEcSPUmJsl1ISSb1R3\nhga5yxZn9wKBgQCLlAULyBBe84Fwwsh+8LxvEeI2bQjoPVDpnEpO1fwBWKsqXhNz\nUqfN9Jjp5N37PLa6MqJPPwAvYaGPmlghwRNqPajS2ztAzmtJvZM3fEdPjdSAsZp3\niYatAI+cNyST/ZdYonhETBUPJqvnBqdjyyMV9pO0470Il5k2GU4DLX1lxQKBgQC5\np37HpAxxPCFtuvncSmOfzWcxUgwzcyky64OOpjKsS3/3zim1Z9aVkwrppuFFX45W\np8fS82SNdJYk+U9gAV0GCwRtBx3TqSdSFOasKIXsXvZcI217iFYlF9npeklRmoPD\nffd3VxK2G1j5PquTuRzwD+QHLLYaeE4DPWU+1bKNzQKBgCRFZHnAiqBa5gm4sK1w\nPSZNd6I+z2Yggh8tSSNK9I3M2fGlncxFqAWXSK8v1Y9IDjItAo4D6hzIQO9bxG4e\nb42Ud2+cGIO+XEV61QeMb65I9kDUxSXGfMHPbLqvAxr/FWDBd8WpkL/qx++tcZSm\neMsb5PsR5ghilSACNDDxYP2t\n-----END PRIVATE KEY-----\n",
+  "client_email": "scxintersummit-registration@sxcintersummit-registration.iam.gserviceaccount.com",
+  "client_id": "110631403033394574116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scxintersummit-registration%40sxcintersummit-registration.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
